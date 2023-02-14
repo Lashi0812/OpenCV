@@ -1,2 +1,5 @@
 .idea/
 videos/
+images/
+.vscode/settings.json
+*.pyc
