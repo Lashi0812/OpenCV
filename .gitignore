@@ -3,3 +3,4 @@ videos/
 images/
 .vscode/settings.json
 *.pyc
+data/face/
